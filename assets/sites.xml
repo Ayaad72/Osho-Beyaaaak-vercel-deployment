@@ -1,0 +1,19 @@
+<FileZilla3 version="3.60.2" platform="windows">
+<Servers>
+<Server>
+<Host>files.000webhost.com</Host>
+<Port>21</Port>
+<Protocol>6</Protocol>
+<Type>0</Type>
+<User>oshobeyaak</User>
+<Pass encoding="base64">b3Noby4xMjM0NQ==</Pass>
+<Logontype>1</Logontype>
+<PasvMode>MODE_PASSIVE</PasvMode>
+<EncodingType>UTF-8</EncodingType>
+<BypassProxy>0</BypassProxy>
+<Name>Osho</Name>
+<SyncBrowsing>0</SyncBrowsing>
+<DirectoryComparison>0</DirectoryComparison>
+</Server>
+</Servers>
+</FileZilla3>
